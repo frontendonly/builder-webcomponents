@@ -1,0 +1,9 @@
+{
+    "name": "fo-web-component",
+    "authors": [
+        "FrontendOnly Team <teams@frontendonly.com>"
+    ],
+    "version": "1.0",
+    "description": "Base web component sample for FO Builder",
+    "website": "https://sites.frontendonly.com"
+}
