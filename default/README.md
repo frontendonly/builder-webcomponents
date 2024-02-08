@@ -1,4 +1,2 @@
 # fo-web-component
-`
-Default webcomponent that developers can clone in-order to create a their custom element.
-`
+This is a base component that should be used when creating a new custom element.

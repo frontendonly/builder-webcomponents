@@ -22,4 +22,4 @@ after installation run below command and follow the instructions
     
 Your webcomponent will be published to your account and a new url will be presented for accessing the resource.
 
-## HAPPY CODING
+### HAPPY CODING
